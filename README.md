@@ -45,4 +45,4 @@ Une implémentation du célèbre jeu de stratégie développée en langage C. Ce
 Ce projet est développé dans un cadre pédagogique pour l'apprentissage du langage C.
 
 ## 👤 Auteurs
-**Joshua LOZANO** - **Clovis Rollet**
+**Joshua LOZANO** - **Clovis ROLLET**
